@@ -1315,4 +1315,4 @@ survival race 2026
         gameLoop();
     </script>
 </body>
-</html>
+</html>   
